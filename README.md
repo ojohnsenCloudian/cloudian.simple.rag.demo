@@ -2,7 +2,7 @@
 
 This project gives you a one-command installer that sets up a **Retrieval-Augmented Generation (RAG)** demo on an Ubuntu server.
 
-- **Object storage (Cloudian HyperStore / MinIO / Any S3)** holds your documents (PDF or text).
+- **Object storage (Cloudian HyperStore)holds your documents (PDF or text).
 - **Ollama** runs locally to generate **embeddings** and **answers** (no external AI services).
 - **SQLite** stores document chunks + vectors.
 - A **Rich TUI** (terminal user interface) lets you chat with your documents.
