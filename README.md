@@ -17,7 +17,7 @@ Everything else (code, venv, models, etc.) is created by the installer under `~/
 
 ## ✅ Requirements
 
-- Ubuntu Server 22.04/24.04 (root/sudo access)
+- Ubuntu Server 24.04.3 LTS (root/sudo access)
 - Internet connectivity (to install packages and pull models)
 - An S3-compatible endpoint (Cloudian HyperStore recommended) + bucket credentials  
 - ~10 GB free disk space (for models + dependencies)
