@@ -1,4 +1,4 @@
-# 🧠 RAG Demo Bootstrap (Ollama + Cloudian/Any S3)
+# 🧠 RAG Demo (Ollama + Cloudian/Any S3)
 
 This project gives you a one-command installer that sets up a **Retrieval-Augmented Generation (RAG)** demo on an Ubuntu server.
 
